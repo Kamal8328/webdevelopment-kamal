@@ -3,6 +3,24 @@ html introduction
 versions and features of html
 https://www.tutorialsfreak.com/html-tutorial/html-history
 
+html strucuture
+attribute syntax= id="" == additional about tag
+tag = pre-defined word enclosed with angular brackets
+element= open tag + content + close tag
+
+
+
+css structure
+selectors: tag-name(h1,h2,p,a,b), id(#), class(.)
+assignment: pracitice
+syntax:
+selector{
+property:value;
+}
+
+font family: serif,  san-serif,  monotype, cursive, fantacy.
+assignment: mention each font any 5names
+
 css introduction 
 versions and features of css
 https://www.geeksforgeeks.org/css-history-versions/
