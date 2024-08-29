@@ -18,9 +18,14 @@ selector{
 property:value;
 }
 
+cascading rule:
+
 font family: serif,  san-serif,  monotype, cursive, fantacy.
 assignment: mention each font any 5names
 
 css introduction 
 versions and features of css
 https://www.geeksforgeeks.org/css-history-versions/
+
+inspecting or view source code shortcut
+   ctrl + shift + i
