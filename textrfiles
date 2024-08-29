@@ -7,6 +7,9 @@ html strucuture
 attribute syntax= id="" == additional about tag
 tag = pre-defined word enclosed with angular brackets
 element= open tag + content + close tag
+<h1><!--opentag-->
+    Hi friend, try edit me!<!--content==text,image,link-->
+    </h1><!--closetag-->
 
 
 
